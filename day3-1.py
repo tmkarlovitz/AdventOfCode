@@ -1,4 +1,4 @@
-present_count = {}
+present_count = {} 
 current_x = 0
 current_y = 0
 present_count[(current_x,current_y)] = 1
